@@ -10,7 +10,8 @@
   --fonte-secundaria: "Montserrat", sans-serif;
 
   --headline-mobile: 1.5rem;
-  --body-mobile: 0.87rem;
+  --body-mobile: 1rem;
+  --button-mobile: 0.87rem;
   --footer-mobile: 0.62rem;
 }
 
@@ -34,7 +35,7 @@ body {
 
 .cabecalho__menu__links {
   font-family: var(--fonte-secundaria);
-  font-size: var(--headline-mobile);
+  font-size: 1.5rem;
   font-weight: 600;
   color: var(--cor-terciaria);
   text-decoration: none;
@@ -150,7 +151,7 @@ body {
   }
 
   .apresentacao__links__style {
-    font-size: var(--body-mobile);
+    font-size: var(--button-mobile);
     padding: 10px 16px;
     align-items: center;
   }     
