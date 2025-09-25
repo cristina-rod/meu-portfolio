@@ -107,7 +107,7 @@ body {
 .apresentacao_imagem {
   /* width: 50%; */
   flex: 1 1 300px;
-  max-width: 400px;
+  max-width: 100%;
   margin: 0 auto;
 }
 
