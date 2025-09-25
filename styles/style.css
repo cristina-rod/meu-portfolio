@@ -104,6 +104,9 @@ body {
 
 .apresentacao_imagem{
   width: 50%;
+  max-width: 100%;
+  height: auto;
+  display: block;
 }
 
 .rodape {
