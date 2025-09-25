@@ -120,6 +120,13 @@ body {
 }
 
 @media (max-width: 1230px) {  
+  .apresentacao_imagem img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+  object-fit: contain;
+  }
+  
   .cabecalho__menu {
     padding: 10% 0% 0% 0%;
     justify-content: center;
